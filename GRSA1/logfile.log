@@ -1,0 +1,196 @@
+ init_energy: itysol =            1
+ init_energy: esol_scaling =  F
+ Assigning rank            0           0           0           1 to group           4
+           0 has comm           3
+ PTGroup=           0
+           4           0 is master for            0 .
+ My new rank is            0 of           1
+ init_molecule: Solvent:            1
+ Secuencia:  ala asn asp                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+ ie          12
+ File with sequence is ./SEQUENCES/three/ ala asn asp.seq
+ addend> Net charge of molecule # 1:   0.001
+
+ EXAMPLES/1bdd.var
+
+  
+ pdbread> ERROR opening file to read pdb-structure: 
+EXAMPLES/1bdd.pdb
+ init_energy: itysol =            1
+ init_energy: esol_scaling =  F
+ Assigning rank            0           0           0           1 to group           4
+           0 has comm           3
+ PTGroup=           0
+           4           0 is master for            0 .
+ My new rank is            0 of           1
+ init_molecule: Solvent:            1
+ Secuencia:  ala asp gln                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+ ie          12
+ File with sequence is ./SEQUENCES/three/ ala asp gln.seq
+ addend> Net charge of molecule # 1:   0.001
+
+ EXAMPLES/1bdd.var
+
+  
+ pdbread> ERROR opening file to read pdb-structure: 
+EXAMPLES/1bdd.pdb
+ init_energy: itysol =            1
+ init_energy: esol_scaling =  F
+ Assigning rank            0           0           0           1 to group           4
+           0 has comm           3
+ PTGroup=           0
+           4           0 is master for            0 .
+ My new rank is            0 of           1
+ init_molecule: Solvent:            1
+ Secuencia:  ala ala trp                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+ ie          12
+ File with sequence is ./SEQUENCES/three/ ala ala trp.seq
+ addend> Net charge of molecule # 1:   0.001
+
+ EXAMPLES/1bdd.var
+
+  
+ pdbread> ERROR opening file to read pdb-structure: 
+EXAMPLES/1bdd.pdb
+ init_energy: itysol =            1
+ init_energy: esol_scaling =  F
+ Assigning rank            0           0           0           1 to group           4
+           0 has comm           3
+ PTGroup=           0
+           4           0 is master for            0 .
+ My new rank is            0 of           1
+ init_molecule: Solvent:            1
+ Secuencia:  ala arg leu                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+ ie          12
+ File with sequence is ./SEQUENCES/three/ ala arg leu.seq
+ addend> Net charge of molecule # 1:   0.001
+
+ EXAMPLES/1bdd.var
+
+  
+ pdbread> ERROR opening file to read pdb-structure: 
+EXAMPLES/1bdd.pdb
+ init_energy: itysol =            1
+ init_energy: esol_scaling =  F
+ Assigning rank            0           0           0           1 to group           4
+           0 has comm           3
+ PTGroup=           0
+           4           0 is master for            0 .
+ My new rank is            0 of           1
+ init_molecule: Solvent:            1
+ Secuencia:  ala asn gln                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+ ie          12
+ File with sequence is ./SEQUENCES/three/ ala asn gln.seq
+ addend> Net charge of molecule # 1:   0.001
+
+ EXAMPLES/1bdd.var
+
+  
+ pdbread> ERROR opening file to read pdb-structure: 
+EXAMPLES/1bdd.pdb
+ init_energy: itysol =            1
+ init_energy: esol_scaling =  F
+ Assigning rank            0           0           0           1 to group           4
+           0 has comm           3
+ PTGroup=           0
+           4           0 is master for            0 .
+ My new rank is            0 of           1
+ init_molecule: Solvent:            1
+ Secuencia:  ala asn thr                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+ ie          12
+ File with sequence is ./SEQUENCES/three/ ala asn thr.seq
+ addend> Net charge of molecule # 1:   0.001
+
+ EXAMPLES/1bdd.var
+
+  
+ pdbread> ERROR opening file to read pdb-structure: 
+EXAMPLES/1bdd.pdb
+ init_energy: itysol =            1
+ init_energy: esol_scaling =  F
+ Assigning rank            0           0           0           1 to group           4
+           0 has comm           3
+ PTGroup=           0
+           4           0 is master for            0 .
+ My new rank is            0 of           1
+ init_molecule: Solvent:            1
+ Secuencia:  ala ala ala                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+ ie          12
+ File with sequence is ./SEQUENCES/three/ ala ala ala.seq
+ addend> Net charge of molecule # 1:   0.001
+
+ EXAMPLES/1bdd.var
+
+  
+ pdbread> ERROR opening file to read pdb-structure: 
+EXAMPLES/1bdd.pdb
+ init_energy: itysol =            1
+ init_energy: esol_scaling =  F
+ Assigning rank            0           0           0           1 to group           4
+           0 has comm           3
+ PTGroup=           0
+           4           0 is master for            0 .
+ My new rank is            0 of           1
+ init_molecule: Solvent:            1
+ Secuencia:  ala asn gly                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+ ie          12
+ File with sequence is ./SEQUENCES/three/ ala asn gly.seq
+ EXAMPLES/1bdd.var
+
+  
+ pdbread> ERROR opening file to read pdb-structure: 
+EXAMPLES/1bdd.pdb
+ init_energy: itysol =            1
+ init_energy: esol_scaling =  F
+ Assigning rank            0           0           0           1 to group           4
+           0 has comm           3
+ PTGroup=           0
+           4           0 is master for            0 .
+ My new rank is            0 of           1
+ init_molecule: Solvent:            1
+ Secuencia:  ala asn phe                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+ ie          12
+ File with sequence is ./SEQUENCES/three/ ala asn phe.seq
+ addend> Net charge of molecule # 1:   0.001
+
+ EXAMPLES/1bdd.var
+
+  
+ pdbread> ERROR opening file to read pdb-structure: 
+EXAMPLES/1bdd.pdb
+ init_energy: itysol =            1
+ init_energy: esol_scaling =  F
+ Assigning rank            0           0           0           1 to group           4
+           0 has comm           3
+ PTGroup=           0
+           4           0 is master for            0 .
+ My new rank is            0 of           1
+ init_molecule: Solvent:            1
+ Secuencia:  ala arg met                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+ ie          12
+ File with sequence is ./SEQUENCES/three/ ala arg met.seq
+ addend> Net charge of molecule # 1:   0.001
+
+ EXAMPLES/1bdd.var
+
+  
+ pdbread> ERROR opening file to read pdb-structure: 
+EXAMPLES/1bdd.pdb
+ init_energy: itysol =            1
+ init_energy: esol_scaling =  F
+ Assigning rank            0           0           0           1 to group           4
+           0 has comm           3
+ PTGroup=           0
+           4           0 is master for            0 .
+ My new rank is            0 of           1
+ init_molecule: Solvent:            1
+ Secuencia:  ala asp pro                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+ ie          12
+ File with sequence is ./SEQUENCES/three/ ala asp pro.seq
+ addend> Net charge of molecule # 1:  -0.011
+
+ EXAMPLES/1bdd.var
+
+  
+ pdbread> ERROR opening file to read pdb-structure: 
+EXAMPLES/1bdd.pdb
